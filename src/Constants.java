@@ -8,7 +8,7 @@ public final class Constants {
   public static final String SOMETHING_HERE = new String("something");
 
   public String retour1() {
-    return new String("test");
+    return new String("test2");
   }
 
   private String retour2() {
@@ -19,7 +19,7 @@ public final class Constants {
         return "test2";
       }
     }
-    return "test";
+    return "test2";
   }
   
   public boolean checkIfToto(String s) {
